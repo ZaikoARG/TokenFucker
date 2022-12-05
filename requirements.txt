@@ -1,0 +1,3 @@
+discord_webhook==0.17.0
+psutil==5.9.4
+termcolor==2.1.1
