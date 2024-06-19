@@ -1,5 +1,5 @@
 # TokenFucker
-![TokenFucker](https://media.discordapp.net/attachments/843628315146321940/1049398161254391808/TokenFucker5.png?width=960&height=346)
+![TokenFucker](https://media.discordapp.net/attachments/843628315146321940/1049398161254391808/TokenFucker5.png?ex=6673d1f2&is=66728072&hm=5fe743f39794fa5b8175fc1874df5e7d66bbc9447486c2981eb14cd44e19c045&=&format=webp&quality=lossless)
 <p align="center">
     <em>Cross plataform tool for Discord Token Stealing</em></p>
     <p align="center">
